@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Marsko94/marsko94.github.io#readme",
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
